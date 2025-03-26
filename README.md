@@ -83,7 +83,7 @@ The OCR Application is a Python-based tool designed to extract text from PDF doc
 ## Developer Information
 
 - **Developer**: Louise Paul
-- **GitHub**: [sujithrex](https://github.com/louisepaul75)
+- **GitHub**: [louisepaul75](https://github.com/louisepaul75)
 
 ## License
 
