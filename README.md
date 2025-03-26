@@ -28,7 +28,7 @@ The OCR Application is a Python-based tool designed to extract text from PDF doc
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sujithrex/ocr-application.git
+   git clone https://github.com/louisepaul75/ocr-application.git
    cd ocr-application
    ```
 
@@ -102,4 +102,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ---
 
-For any questions or support, please contact [Sujith S](mailto:ricafortlouisepaul75@gmail.com).
+For any questions or support, please contact [Louise P.](mailto:ricafortlouisepaul75@gmail.com).
